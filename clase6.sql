@@ -86,3 +86,4 @@ donde actor_id no está en ( seleccione  actor . actor_id
  				y  fa . film_id  =  f . film_id 
  				y  f . título  en ( ' TRAICION TRASERO ' , ' CAPTURA AMISTAD ' ));
         
+	
